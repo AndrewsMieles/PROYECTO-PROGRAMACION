@@ -1,3 +1,4 @@
+# Arriaga Sanchez Genesis, Bajaña Tarira Jenniffer, Landazuri Barcia Liliana, Mieles Piloso Andrews, Vera Saltos Jimmy
 rom PySide6.QtWidgets import QMainWindow
 
 from UI.vtn_principal import Ui_vtn_principal
